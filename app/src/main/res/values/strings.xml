@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alex</string>
+    <string name="number_table">Введите номер столика</string>
+    <string name="food">Блюдо</string>
+    <string name="count">Кол.</string>
+    <string name="price">Цена</string>
+</resources>
